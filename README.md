@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Neduboy112
+By- 👋 Hi, I’m @Neduboy112
 - 👀 I’m interested in anything that can help me be a better programmer
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on anyone 
+- 💞️ I’m looking to collaborate on anyone of with value.
 - 📫 How to reach me on WhatsApp @ http://wa.me/+2347057808093
 
 <!---
